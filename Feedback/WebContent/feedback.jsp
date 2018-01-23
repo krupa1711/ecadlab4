@@ -15,7 +15,7 @@
 	Enrollment ID:
     <input type="text" id="enrolment" name="enrolment" placeholder="Your enrollment number..">
 	<br><br>
-	Branch:
+	Select Branch:
     <select id="branch" name="branch">
       <option value="CBA">CBA</option>
       <option value="BDA">BDA</option>
