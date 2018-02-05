@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: au-syd.mybluemix.net
-  name: TC62
-  host: TC62
+  name: ecadlab4
+  host: ecadlab4
   disk_quota: 1024M
